@@ -1,5 +1,8 @@
 Flask
-gunicorn
-scikit-learn
 numpy
 pandas
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+ast
+gunicorn  # (Optional for deployment, can remove if just running locally)
