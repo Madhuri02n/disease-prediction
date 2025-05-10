@@ -4,5 +4,4 @@ pandas
 scikit-learn
 fuzzywuzzy
 python-Levenshtein
-ast
 gunicorn  # (Optional for deployment, can remove if just running locally)
