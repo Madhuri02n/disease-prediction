@@ -4,4 +4,5 @@ pandas
 scikit-learn
 fuzzywuzzy
 python-Levenshtein
+scikit-learn==1.4.1.post1
 gunicorn  # (Optional for deployment, can remove if just running locally)
